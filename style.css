@@ -1,0 +1,15 @@
+
+.container{
+    padding: 7% 25%;
+}
+.alert{
+    display: none;
+}
+
+
+@media only screen and (max-width: 700px){
+    .container{
+      
+        padding: 15% 10%;
+    }
+}
